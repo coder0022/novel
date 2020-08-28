@@ -1,0 +1,18 @@
+h1,h2{
+	text-align: center;
+	text-decoration: underline;
+}
+div{
+	display: none;
+}
+button{
+   background-color: black;
+   color: white;
+   height: 60px;
+}
+#center{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
